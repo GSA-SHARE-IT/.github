@@ -6,11 +6,11 @@ Resources to help federal agencies implement the SHARE IT Act and support softwa
 
 GSA-SHARE-IT is a GSA owned GitHub organization that brings together SHARE IT Act guidance, tools, metadata standards, and examples.
 
-Developed through collaboration between GSA and the Centers for Medicare & Medicaid Services (CMS) Open Source Program Group, these resources help agencies document their software, maintain software inventories, and support discovery and reuse across government.
+These repositories were developed through collaboration between The GSA SHARE IT Act WG, and the Centers for Medicare & Medicaid Services (CMS) Open Source Program Office, to help agencies document their software, maintain software inventories, and support discovery and reuse across government.
 
 ## Vision
 
-A federal government where agencies can discover, share, and reuse software to reduce duplicative work and better serve the public.
+A Federal Government Ecosystem where agencies can discover, share, and reuse software to reduce duplicative work and better serve the public.
 
 ## Mission
 
